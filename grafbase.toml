@@ -1,0 +1,5 @@
+[graph]
+type = "standalone"
+
+[experimental.codegen]
+enabled = true
